@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+.DS_Store
+=======
+
+*.pyc
+baselines/Neural-Natural-Logic-main/preprocess/snli_1.0/.DS_Store
+>>>>>>> f4b6872 (first time upload all need code to reimplement experiment result for EPR without of any output file or dataset)
